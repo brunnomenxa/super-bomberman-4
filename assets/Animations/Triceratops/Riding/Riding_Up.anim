@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Riding_Up",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a146a6da-2d3e-4309-92a3-ec25763d03d6"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "5216d4e8-a75e-449b-87e1-fc63c1f96855"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "ea6b7c4c-e90f-4d68-8808-b4f3bac71285"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "ea6b7c4c-e90f-4d68-8808-b4f3bac71285"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "5216d4e8-a75e-449b-87e1-fc63c1f96855"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "5216d4e8-a75e-449b-87e1-fc63c1f96855"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "a146a6da-2d3e-4309-92a3-ec25763d03d6"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Walking_Up",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 0.6,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b9920a02-557a-4f16-ab15-ad75e4f04292"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "101132e5-406b-4c39-b7aa-38d83210f059"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "b6541e73-60a4-419b-82d6-f8f895740f01"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "a1187eae-a9ac-4032-9e7b-21e4a1535c96"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "b9920a02-557a-4f16-ab15-ad75e4f04292"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

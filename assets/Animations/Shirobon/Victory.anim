@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Victory",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "217ee37a-a25f-4025-875d-37d4f005bc39"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "b2f29d59-d9f5-4d03-8fca-1d0b94decf1d"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "217ee37a-a25f-4025-875d-37d4f005bc39"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

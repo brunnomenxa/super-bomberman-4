@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Walking_Right",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 0.6,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "514388ca-482b-4a33-bdc5-b10ce96ffe80"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "4b8f578e-ebb9-48cc-9e27-1974b22e849a"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "89c2b872-e34e-4e6b-b378-082aa424eeb5"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "367b36b1-039d-41f0-a3d3-af9ccf2bc6d1"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "514388ca-482b-4a33-bdc5-b10ce96ffe80"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

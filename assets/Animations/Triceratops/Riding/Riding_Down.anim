@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Riding_Down",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.85,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "57bc2973-cec3-4453-bf17-9a41696e3996"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "2e443325-e76f-40a3-98d6-eca3b90d1343"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "28b28946-9aef-4f73-9295-fe01cea0820a"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "28b28946-9aef-4f73-9295-fe01cea0820a"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "2e443325-e76f-40a3-98d6-eca3b90d1343"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "57bc2973-cec3-4453-bf17-9a41696e3996"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
